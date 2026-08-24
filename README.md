@@ -1,18 +1,16 @@
 **\# *Game Concept*:**  
-• *Nome*: Crossy Road;  
-• *Inspiração*: Frogger;  
-• *Objetivo*: Ajudar o personagem a atravessar as ruas;  
-• *Ideia*: Construir uma versão atual do jogo Frogger baseada  
-em Qubicles;  
-• *Gênero*: Runner.
+• *Nome*: Agro Drone Vigilant;  
+• *Inspiração*: Flight Simulator, Jet de Go, Petit Copter;  
+• *Objetivo*: Pulverizar, Apagar incêndios, Semear e Monitorar;  
+• *Ideia*: Construir um simulador de drones agropecuários para estimular o treinamento de novos pilotos;  
+• *Gênero*: Simulador.
 
 **\# *Game Player*:**  
-• *Idade*: Todas as idades;  
+• *Idade*: 10+;  
 • *Segmento*: Jogadores casuais;  
 • *Número de jogadores*: 1;  
 • *Comunidade*: Redes sociais para divulgação de fotos;  
-• *Personagens*: Variados conforme o ambiente de ruas do  
-jogo.
+• *Personagens*: Piloto de nome indefinido à escolha do jogador.
 
 **\# Game Play:**  
 • *Scene*: Rua com tráfego pesado;  
